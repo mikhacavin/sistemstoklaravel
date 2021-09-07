@@ -1,12 +1,12 @@
 ## ScreenShoot halaman
-- [Halaman](https://i.imgur.com/gpkAfr6.jpg).
-- [Halaman](https://i.imgur.com/vDZRzok.png).
-- [Halaman](https://i.imgur.com/9Z55Gap.png).
-- [Halaman](https://i.imgur.com/JiC87ke.png).
-- [Halaman](https://i.imgur.com/RLXH6jE.png).
-- [Halaman](https://i.imgur.com/oZs2rDl.png).
-- [Halaman](https://i.imgur.com/5fb9l4B.png).
-- [Halaman](https://i.imgur.com/9TTr8K4.png).
+![Halaman](https://i.imgur.com/gpkAfr6.jpg).
+![Halaman](https://i.imgur.com/vDZRzok.png).
+![Halaman](https://i.imgur.com/9Z55Gap.png).
+![Halaman](https://i.imgur.com/JiC87ke.png).
+![Halaman](https://i.imgur.com/RLXH6jE.png).
+![Halaman](https://i.imgur.com/oZs2rDl.png).
+![Halaman](https://i.imgur.com/5fb9l4B.png).
+![Halaman](https://i.imgur.com/9TTr8K4.png).
 
 
 
